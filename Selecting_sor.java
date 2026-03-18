@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Sorting_ij {
+public class Selecting_sor {
     public static void main(String[] args) {
         int[] arr={3,8,4,2,5};
         int n=arr.length;
